@@ -19,10 +19,10 @@ class AppColors {
 class AppImages {
   AppImages._();
 
-  static const calculator = 'assets/images/calculator.png';
+  static const calculator = 'assets/images/calculate.png';
   static const bmi = 'assets/images/bmi.png';
   static const bmr = 'assets/images/bmr.png';
-  static const sauLogo = 'assets/images/sau_logo.png';
+  static const sauLogo = 'assets/images/saulogo.png';
 }
 
 class AppTheme {

@@ -26,9 +26,9 @@ flutter:
     # Kanit font files, used by google_fonts without downloading at runtime.
     - assets/google_fonts/
 
-# Put the app logo at assets/images/calculator.png, then run: dart run flutter_launcher_icons
+# Regenerate the app icon with: dart run flutter_launcher_icons
 flutter_launcher_icons:
   android: true
   ios: true
-  image_path: assets/images/calculator.png
+  image_path: assets/images/icon.png
   remove_alpha_ios: true

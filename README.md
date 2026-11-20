@@ -17,16 +17,15 @@
 - BMR ชาย = 88.362 + (13.397 × kg) + (4.799 × cm) − (5.677 × อายุ)
 - BMR หญิง = 447.593 + (9.247 × kg) + (3.098 × cm) − (4.330 × อายุ)
 
-## รูปที่ต้องใส่
-
-วางไฟล์ใน `assets/images/` (ถ้ายังไม่มี จะแสดงไอคอนแทน):
+## รูปใน `assets/images/`
 
 | ไฟล์ | ใช้ที่ |
 |---|---|
-| `calculator.png` | Splash, About, ไอคอนแอพ (`dart run flutter_launcher_icons`) |
+| `calculate.png` | Splash, About |
+| `icon.png` | ไอคอนแอพ (`dart run flutter_launcher_icons`) |
 | `bmi.png` | หน้าปัด BMI |
 | `bmr.png` | หัวใจกับดัมเบล |
-| `sau_logo.png` | โลโก้ SAU ด้านล่างหน้า About |
+| `saulogo.png` | โลโก้ SAU ด้านล่างหน้า About |
 
 ## รัน / ทดสอบ
 
